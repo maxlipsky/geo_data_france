@@ -1,2 +1,2 @@
 # geo_data_france
-Regions, departments, cities
+Regions, departments, cities, addresses
